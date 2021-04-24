@@ -30,7 +30,7 @@ ISC
 - GitHub 
 
 ### Tests
-* No tests were required for this application
+
 
 ## Questions
 * For questions, please reach out to me at marciasko@icloud.com
