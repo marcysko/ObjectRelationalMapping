@@ -32,6 +32,7 @@ ISC
 - MySQL 
 - Express.js 
 - dotenv
+- Insomnia
 - GitHub 
 
 ### Tests
