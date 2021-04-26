@@ -26,10 +26,12 @@ ISC
 ### Technology
 
 - JavaScript
-- JQuery 
+- JSON
 - Node.js 
+- Sequelize
 - MySQL 
-- Inquirer
+- Express.js 
+- dotenv
 - GitHub 
 
 ### Tests
