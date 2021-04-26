@@ -7,7 +7,7 @@
 Built the back end for an e-commerce site.
 ## Video Link
 
-[!](https://media.giphy.com/media/V7bUT7FmREPsuQpwcH/giphy.mp4)
+![Untitled_ Apr 22, 2021 10_16 AM (1)](https://media.giphy.com/media/V7bUT7FmREPsuQpwcH/giphy.gif)
 
 ## Table of Contents
  
