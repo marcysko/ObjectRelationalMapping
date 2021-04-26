@@ -4,7 +4,7 @@
   [![license](https://img.shields.io/badge/license-ISC-yellow)](https://shields.io)
 
 ## Description
-Built the back end for an e-commerce site. The user can view, create, update and delete inventory data in a MySQL database.
+Built the back end for an e-commerce site. The user can view, create, update and delete inventory data in a MySQL database environment.
 ## Video Link
 https://youtu.be/Ghsfb0IPSZE
 
