@@ -16,8 +16,6 @@ https://youtu.be/Ghsfb0IPSZE
   
   * [Technology](#Technology)
   
-  * [Tests](#Tests)
-  
   * [Questions](#Questions)
 
 
@@ -35,7 +33,7 @@ ISC
 - Insomnia
 - GitHub 
 
-### Tests
+
 
 
 ## Questions
